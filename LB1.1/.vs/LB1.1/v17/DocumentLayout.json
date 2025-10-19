@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\",
+  "WorkspaceRootPath": "C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\LB1.1\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\LB1.1\\LB1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|solutionrelative:LB1.1\\LB1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\LB1.1\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|solutionrelative:LB1.1\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\LB1.1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\LB1.1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|solutionrelative:LB1.1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\LB1.1\\LB1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8F5CD676-214C-4157-A246-6DBEB670F0ED}|LB1.1\\LB1.1.vcxproj|solutionrelative:LB1.1\\LB1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +34,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LB1.1.cpp",
-              "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\LB1.1\\LB1.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\LB1.1\\LB1.1.cpp",
               "RelativeDocumentMoniker": "LB1.1\\LB1.1.cpp",
-              "ToolTip": "C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\LB1.1\\LB1.1.cpp",
+              "ToolTip": "C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\LB1.1\\LB1.1.cpp",
               "RelativeToolTip": "LB1.1\\LB1.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-04T19:12:12.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Triangle.cpp",
-              "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\LB1.1\\Triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\LB1.1\\Triangle.cpp",
               "RelativeDocumentMoniker": "LB1.1\\Triangle.cpp",
-              "ToolTip": "C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\LB1.1\\Triangle.cpp",
+              "ToolTip": "C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\LB1.1\\Triangle.cpp",
               "RelativeToolTip": "LB1.1\\Triangle.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-04T19:31:24.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Triangle.h",
-              "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\LB1.1\\Triangle.h",
+              "DocumentMoniker": "C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\LB1.1\\Triangle.h",
               "RelativeDocumentMoniker": "LB1.1\\Triangle.h",
-              "ToolTip": "C:\\Users\\Matvey\\Desktop\\0104\\LB1.1\\LB1.1\\Triangle.h",
+              "ToolTip": "C:\\Users\\Matvey\\source\\repos\\0104\\LB1.1\\LB1.1\\Triangle.h",
               "RelativeToolTip": "LB1.1\\Triangle.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-04T19:21:35.536Z",
               "EditorCaption": ""
